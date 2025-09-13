@@ -1,0 +1,23 @@
+nohup: ignoring input
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.2)
+
+2025-09-12T18:00:51.342+05:30  INFO 215957 --- [           main] com.example.demo.DemoApplication         : Starting DemoApplication v1.0.0 using Java 17.0.16 with PID 215957 (/root/realtime-ci-cd-demo/target/demo-1.0.0.jar started by root in /root/realtime-ci-cd-demo)
+2025-09-12T18:00:51.347+05:30  INFO 215957 --- [           main] com.example.demo.DemoApplication         : No active profile set, falling back to 1 default profile: "default"
+2025-09-12T18:00:52.169+05:30  INFO 215957 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8080 (http)
+2025-09-12T18:00:52.177+05:30  INFO 215957 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-09-12T18:00:52.177+05:30  INFO 215957 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2025-09-12T18:00:52.201+05:30  INFO 215957 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-09-12T18:00:52.201+05:30  INFO 215957 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 753 ms
+2025-09-12T18:00:52.425+05:30  INFO 215957 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8080 (http) with context path '/'
+2025-09-12T18:00:52.435+05:30  INFO 215957 --- [           main] com.example.demo.DemoApplication         : Started DemoApplication in 1.421 seconds (process running for 1.696)
+2025-09-12T18:02:10.794+05:30  INFO 215957 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-09-12T18:02:10.794+05:30  INFO 215957 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-09-12T18:02:10.795+05:30  INFO 215957 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
